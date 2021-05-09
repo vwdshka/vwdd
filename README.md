@@ -1,2 +1,2 @@
 # vwd.
-A quick website I made. Took around 5 and a half hours.
+This is my submission website for the Zero to Mastery Web Dev Course Challenge 8
